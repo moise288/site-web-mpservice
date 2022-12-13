@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #212529;
-  --color-primary: #d6b707;
+  --color-primary: #e2c74e;
   --color-secondary: #37373f;
 }
 
@@ -682,7 +682,8 @@ section {
 .menu .tab-content .menu-item .price {
   font-size: 24px;
   font-weight: 700;
-  color: var(--color-primary);
+  /* color: var(--color-primary); */
+  color: #1ed46a;
 }
 
 /*--------------------------------------------------------------
@@ -1169,7 +1170,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: var(--color-primary);
+  background: #25b170;
   border: 0;
   padding: 12px 40px;
   color: #fff;
@@ -1178,7 +1179,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #ecc827;
+  background: #4ebe79b9;
 }
 
 @keyframes animate-loading {

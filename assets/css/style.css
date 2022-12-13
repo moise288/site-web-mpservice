@@ -1062,7 +1062,7 @@ section {
 }
 
 .events .event-item .price span {
-  border-bottom: 2px solid #ffb03b;
+  border-bottom: 2px solid #ff3b3b;
 }
 
 .events .event-item ul {
@@ -1180,7 +1180,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit] {
-  background: #ffb03b;
+  background: #313131;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1189,7 +1189,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit]:hover {
-  background: #ffa012;
+  background: #2c2c2c;
 }
 
 /*--------------------------------------------------------------
